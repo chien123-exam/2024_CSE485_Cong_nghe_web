@@ -1,0 +1,13 @@
+
+
+.course {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.course h2 {
+    color: #333;
+}
+.course p {
+    color: #666;
+}
